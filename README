@@ -1,0 +1,10 @@
+COMP3109-Assignment-1
+================================================================================
+
+Functional Programming
+Task 1 - (find-vars <query>)
+   Returns a list of varible symbols in a boolean query.
+Task 2 - (transformer <query>)
+    Translates a list of query symbols (a boolean S-expression) into a executable function.
+Task 3 - (simplify <query>)
+    Generate a simplifyed query out of a boolean S-expression.
